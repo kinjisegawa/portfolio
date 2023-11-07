@@ -26,7 +26,7 @@ items-center max-w-7x1 mx-auto"
         >
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
-            Kinji Segawa &nbsp;
+            komoreya &nbsp;
             <span className="sm:block hidden">| Senior Full-Stack CMS Developer</span>
           </p>
         </Link>
